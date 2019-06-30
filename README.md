@@ -15,7 +15,7 @@ To replicate the FrakenFan, the following components are required
 8. Diode (540)
 
 The Schematic is as below
-![schematic](./Pictures/schematic.jpg)
+![schematic](./Pictures/schematic.png)
 
 There are a few ways to fabricate the circuit board, either by using a strip board, breadboard or use board manufacturing technique such as PCB milling or PCB etching. Do note that you might have to get additional components such as pin headers or jumper wires for the previous 2 options. For the later 2 options I have included the Gerber files within the reposistory.
 
