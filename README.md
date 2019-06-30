@@ -1,7 +1,7 @@
 # FrakenFan
 This project originates from the concept of having a fan pointing at me always regardless of my seating orientation
 # Demo video
-The [video](https://youtu.be/52zXk20yyTI) shows the functionality of the frakenfan, when user is in front of the fan it turns on, else it turns off and sweeps around trying to find the user. 
+This [video](https://youtu.be/52zXk20yyTI) shows the functionality of the FrakenFan, when user is in front of the fan it turns on, else it turns off and sweeps around trying to find the user. 
 # Replicating Circuit Board
 To replicate the FrakenFan, the following components are required
 
