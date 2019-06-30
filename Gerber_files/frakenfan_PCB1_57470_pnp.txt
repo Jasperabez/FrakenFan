@@ -1,0 +1,25 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=frakenfan_PCB1_57470
+*Date=22:18:36
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;220;THT;41.4596;-42.2617;-90;Bottom;R1
+2;3V;;30.0296;-14.3217;90;Bottom;VCC1
+3;;THT;31.2996;-44.8017;90;Bottom;S1
+4;;300 mil [THT];32.595;-27.0217;0;Bottom;D1
+5;;;57.97;-44.802;180;Bottom;hc-sr1
+6;;;42.1345;-28.2904;0;Bottom;PCB1
+7;;;36.6022;-28.2917;0;Bottom;Part1
+8;;;46.5396;-11.7817;-90;Bottom;J1
+9;;;30.0296;-34.6417;-90;Bottom;M1
+10;;TO92 [THT];46.4507;-29.7522;90;Bottom;Q1
