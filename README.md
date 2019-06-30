@@ -1,2 +1,3 @@
 # FrakenFan
-a miniature fan that rotate and blow air to the user 
+This project originates from the concept of having the fan pointing at me always regardless of my seating orientation
+# Demo video
